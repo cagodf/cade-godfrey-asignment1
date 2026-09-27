@@ -18,10 +18,10 @@ int answerPhone(int m, int mo, int s) {
 }
 
 int main() {
-    printf("%d\n", answerPhone(1, 1, 1));
-    printf("%d\n", answerPhone(0, 1, 0));
-    printf("%d\n", answerPhone(0, 0, 0));
-    printf("%d\n", answerPhone(1, 1, 0));
-    printf("%d\n", answerPhone(1, 0, 0));
-
+    //printf("%d\n", answerPhone(1, 1, 1));
+    //printf("%d\n", answerPhone(0, 1, 0));
+    //printf("%d\n", answerPhone(0, 0, 0));
+    //printf("%d\n", answerPhone(1, 1, 0));
+    //printf("%d\n", answerPhone(1, 0, 0));
+    return 0;
 }

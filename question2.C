@@ -24,11 +24,11 @@ int triProp(int a1, int a2, int a3){
 }
 
 int main() {
-    printf("%d\n", triProp(100, 20, 60));
-    printf("%d\n", triProp(60, 60, 60));
-    printf("%d\n", triProp(90, 45, 45));
-    printf("%d\n", triProp(100, 40, 40));
-    printf("%d\n", triProp(70, 70, 40));
-    printf("%d\n", triProp(80, 50, 50));
-    printf("%d\n", triProp(61, 60, 60));
+    //printf("%d\n", triProp(100, 20, 60));
+    //printf("%d\n", triProp(60, 60, 60));
+    //printf("%d\n", triProp(90, 45, 45));
+    //printf("%d\n", triProp(100, 40, 40));
+    //printf("%d\n", triProp(70, 70, 40));
+    //printf("%d\n", triProp(80, 50, 50));
+    //printf("%d\n", triProp(61, 60, 60));
 }
