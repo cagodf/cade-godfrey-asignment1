@@ -1,6 +1,10 @@
 #include <stdio.h>
 
 int reverseFizzBuzz(int n) {
+    if (n < 1) {
+        printf("Invalid input. Please enter a positive integer greater than 0.\n");
+        return 0;
+    }
     int newline = 0;
     for (int i = n; i >= 1; i--) {
         if (i % 3 == 0 && i % 5 == 0){
